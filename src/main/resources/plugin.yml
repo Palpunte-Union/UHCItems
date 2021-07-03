@@ -1,0 +1,7 @@
+name: UHC_Items
+version: ${project.version}
+main: com.github.eighty88.uhc_items.UHCItems
+api-version: 1.16
+authors: [eight_y_88]
+description: A minecraft plugin add UHC items
+website: None
